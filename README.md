@@ -2,21 +2,21 @@ Game	:	BARE
 
 About the Game	:
 		
-	Bare is an fun game which is played by the school students in their free time.
+ Bare is an fun game which is played by the school students in their free time.
 This game is a cinema based puzzle game. 
 
 
 
 How to Play 	:
 	
-	At First you and your friends need to split up into two teams. No.of team memberis not limited. After spliting into two groups one of them going to set the puzzle andanother one going to solve the puzzle. You can discuss and choose who is going set and who is going to solve. After choosing, the puzzle setter needs to discuss with teamets and decied a movie. After deciding, you need fill up the bare box, with first letters of movie name, actor name, actress name, and a song in the movie.
+ At First you and your friends need to split up into two teams. No.of team memberis not limited. After spliting into two groups one of them going to set the puzzle andanother one going to solve the puzzle. You can discuss and choose who is going set and who is going to solve. After choosing, the puzzle setter needs to discuss with teamets and decied a movie. After deciding, you need fill up the bare box, with first letters of movie name, actor name, actress name, and a song in the movie.
 
 for e.g:
 if movie name = "Movie"; actor name = "Actor"; actress name = "Actress"; song = "song song..."
 
 then the bare box will be filled like
 				
-				BARE box
+.				BARE box
 				  -- --
 			movie<-  |M |A |  ->actor
 				  -- --
